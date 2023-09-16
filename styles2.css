@@ -1,0 +1,27 @@
+.jumbotron {
+  text-align: center;
+  background-color: #3498db;
+  color: #fff;
+  padding: 60px;
+}
+.description {
+  font-size: 14px;
+  margin-top: 20px;
+}
+#greeting2 {
+  font-size: 36px;
+  margin: 10px 0;
+}
+.rounded1 {
+  max-width: 20%;
+  border-radius: 50%;
+  margin-top: 61px;
+}
+#footer1 {
+  padding-top: 19px;
+  background-color: #11bff0;
+}
+
+#footer2 {
+  padding-top: 20px;
+}
